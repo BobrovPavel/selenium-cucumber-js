@@ -68,7 +68,7 @@
   },
   "engineStrict": true,
   "engines": {
-    "node": "20.12.2"
+    "node": "21.7.3"
   },
   "eslintConfig": {
     "extends": "airbnb-base",
@@ -217,14 +217,14 @@
     {
       "code": "ENOTSUP",
       "required": {
-        "node": "20.12.2"
+        "node": "21.7.3"
       },
       "pkgid": "selenium-cucumber-js@1.5.12"
     },
     {
       "code": "ENOTSUP",
       "required": {
-        "node": "20.12.2"
+        "node": "21.7.3"
       },
       "pkgid": "selenium-cucumber-js@1.5.12"
     }
